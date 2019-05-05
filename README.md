@@ -1,5 +1,5 @@
 # quantum
-Just another test repository 
+Just another repository test
 
 Hello world!
 
